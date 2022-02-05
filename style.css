@@ -1,0 +1,21 @@
+body {
+    background-image: url("css.jpg");
+ }
+
+hr {
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+
+}
+h1{
+    color: brown;
+}
+h2{
+    color: darkorchid;
+}
+h3{
+    color: green;
+}
